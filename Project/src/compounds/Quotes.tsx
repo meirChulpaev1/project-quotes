@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import ShowQoute from './showQuote';
+import ShowQoute from './ShowQuote';
 
 
 

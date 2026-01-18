@@ -5,7 +5,7 @@ import './App.css'
 import Home from './compounds/Home'
 import NotFound from './compounds/NotFound'
 import Navbar from "./compounds/Navbar";
-import Quotes from "./compounds/quotes";
+import Quotes from "./compounds/Quotes";
 
 function App() {
 
