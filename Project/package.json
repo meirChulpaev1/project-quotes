@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://meirCulpaev1.github.io/project-quotes",
+  "homepage": "https://meirChulpaev1.github.io/project-quotes/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
